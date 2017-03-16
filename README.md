@@ -1,7 +1,4 @@
-# toto
-echo "# toto" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/totoobi/toto.git
-git push -u origin master
+# personal site
+
+this is a personal website i am currently developing
+i hoe to complete by the end of april
